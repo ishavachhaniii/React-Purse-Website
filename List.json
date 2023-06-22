@@ -1,0 +1,16 @@
+{
+  "adminLog": [
+    {
+      "id": "nisha",
+      "name": "patel",
+      "password": "n@1234",
+      "email": "nisha@gmail.com"
+    },
+    {
+      "id": "krisha",
+      "name": "patel",
+      "password": "k@1234",
+      "email": "krisha@gmail.com"
+    }
+  ]
+}
